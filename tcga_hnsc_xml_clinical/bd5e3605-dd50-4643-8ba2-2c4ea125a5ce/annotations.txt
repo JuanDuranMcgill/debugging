@@ -1,0 +1,3 @@
+id	submitter_id	entity_type	entity_id	category	classification	created_datetime	status	notes
+0856e167-e7b7-5122-a16c-eb90aafabedc	1264	case	6fa62461-e721-415a-8b0f-363b84292b82	Neoadjuvant therapy	Notification	2011-02-05T00:00:00	Approved	[intgen.org]: Subject Positive for Neo-Adjuvant Therapy
+acbfc05d-8f24-5f30-a785-d669caf2dda1	22383	case	6fa62461-e721-415a-8b0f-363b84292b82	History of unacceptable prior treatment related to a prior/other malignancy	Notification	2014-09-26T00:00:00	Approved	Patient diagnosed with tongue cancer several months prior to procurement of the TCGA specimen and had prior treatment (chemo and radiation). This is a possible recurrence.
